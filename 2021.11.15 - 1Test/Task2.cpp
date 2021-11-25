@@ -13,7 +13,7 @@ int main(int argc, char* argv[])
 	{
 		i += 1;
 
-		if (x % 2 == 0) 
+		if (i % 2 == 0) 
 		{
 			if (mx < x)
 			{
