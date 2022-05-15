@@ -4,6 +4,9 @@
 #ifndef LIB
 #define LIB
 
+#include <iostream>
+#include <cmath>
+
 int f(int);
 
 #endif
